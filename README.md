@@ -22,6 +22,7 @@ Hoje sou Graduando em Engenharia Civil, e outros títulos de Engenheiro ainda se
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=00FFFF)](https://instagram.com/gilvanfalmeida?igshid=MzMyNGUyNmU2YQ==)<br>
 ## Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00FFFF)<br>
+![VB.NET](https://img.shields.io/badge/VB.NET-000?style=for-the-badge&logo=dotnet&logoColor=00FFFF)<br>
 ## Linguagens de Marcação e Estilo
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=00FFFF)<br>
 ![MarkDown](https://img.shields.io/badge/MarkDown-000?style=for-the-badge&logo=markdown&logoColor=00FFFF)
