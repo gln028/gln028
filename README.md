@@ -8,7 +8,7 @@ Desde muito cedo apaixonado por **tecnologia e inovação**, passava horas tenta
 animes etc. Criar, resolver problemas e **entender como a natureza funcionava** sempre foi **fascinante** para mim.
 Por volta dos 11 anos de idade, decidi trilhar meu caminho na **Engenharia**, e desde então, a cada dia que se passa tenho cada vez mais
 certezas de que essa é realmente a minha paixão: a **Engenharia**.
-Hoje sou Graduando em Engenharia Civil e em Engenharia de Software, e outros títulos de Engenheiro ainda serão almejados por mim.<br>
+Hoje sou Graduando em Engenharia Civil, e outros títulos de Engenheiro ainda serão almejados por mim.<br>
 **_Acredito que as máquinas foram criadas para maximizar o potencial cognitivo humano._**<br>
 ## Sobre mim:
 - Gamer
