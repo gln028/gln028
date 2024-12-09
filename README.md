@@ -23,9 +23,11 @@ Hoje sou Graduando em Engenharia Civil, e outros títulos de Engenheiro ainda se
 ## Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00FFFF)<br>
 ![VB.NET](https://img.shields.io/badge/VB.NET-000?style=for-the-badge&logo=dotnet&logoColor=00FFFF)<br>
+![VB.NET](https://img.shields.io/badge/C_language-000?style=for-the-badge&logo=c&logoColor=00FFFF)<br>
 ## Linguagens de Marcação e Estilo
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=00FFFF)<br>
-![MarkDown](https://img.shields.io/badge/MarkDown-000?style=for-the-badge&logo=markdown&logoColor=00FFFF)
+![MarkDown](https://img.shields.io/badge/MarkDown-000?style=for-the-badge&logo=markdown&logoColor=00FFFF)<br>
+![VB.NET](https://img.shields.io/badge/Extensible_Markup_Language_(XML)/Keyhole_Markup_Language_(KML)-000?style=for-the-badge&logo=xml&logoColor=00FFFF)<br>
 # GitHub Stats
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gln028&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=30&hide=s&bg_color=000&title_color=ff00fc&text_color=00ffff&border_radius=10&border_color=00ffff&icon_color=FF00F6&theme=react)
 <!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gn028&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)-->
